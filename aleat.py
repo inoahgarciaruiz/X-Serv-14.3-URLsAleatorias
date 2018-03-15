@@ -3,6 +3,7 @@
 
     Using class scheme, make a random URL generator App that imports webApp class
     provided by module webapp.py
+    Usage: http://<hostname>:1234/<random-string>
 
 Author: Ainhoa Garcia-Ruiz Fuentes
 Course: Servicios y Aplicaciones en Redes de Ordenadores.
